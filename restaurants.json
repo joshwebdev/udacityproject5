@@ -1,0 +1,32 @@
+[
+	{
+		"name" : "Olive Garden",
+		"category" : "Italian",
+		"lat" : "43.060198",
+		"lng": "-89.504644"
+	},
+	{
+		"name" : "Chili's",
+		"category" : "Pub",
+		"lat" : "43.058645",
+		"lng": "-89.508406"
+	},
+	{
+		"name" : "Denny's",
+		"category" : "Diner",
+		"lat" : "43.058262",
+		"lng" : "-89.502199"
+	},
+	{
+		"name" : "Chuck E. Cheese",
+		"category" : "Pizzeria",
+		"lat" : "43.058672",
+		"lng" : "-89.495970"
+	},
+	{
+		"name" : "Rocky Rococo",
+		"category" : "Pizzeria",
+		"lat" : "43.060653",
+		"lng" : "-89.519906"
+	}
+]

@@ -1,0 +1,78 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	font-family: 'Open Sans';
+}
+
+.logo {
+	font-size: 1.0em;
+	font-family: Lobster;
+}
+
+.marker-list {
+	position: absolute;
+	top: 15%;
+	left: 2%;
+	width: 15%;
+	height: 70%;
+	min-width: 100px;
+	min-height: 300px;
+
+	z-index: 100;
+	background: #FBEEE5;
+	padding: 5px 5px 5px 5px;
+	border-radius: 15px;
+	border: 1px solid black;
+}
+
+.restaurant-details {
+	position: absolute;
+	top: 15%;
+	left: 80%;
+	width: 15%;
+	height: 70%;
+	min-width: 100px;
+	min-height: 300px;
+
+	z-index: 100;
+	background: #FBEEE5;
+	padding: 5px 5px 5px 5px;
+	border-radius: 15px;
+	border: 1px solid black;
+}
+
+.controls {
+	position: absolute;
+	top: 2%;
+	left: 2%;
+	width: 96%;
+	height: 6%;
+	min-width: 200px;
+	min-height: 70px;
+
+	z-index: 100;
+	background: #FBEEE5;
+	padding: 5px 5px 5px 5px;
+	border-radius: 15px;
+	border: 1px solid black;
+}
+
+#map-canvas {
+	height: 100%%;
+}
+
+#street-view-canvas {
+	width: 100%;
+	height: 80%;
+}
+
+#search {
+	width: 90%;
+}
+
+.restaurant-name {
+	color: blue;
+	cursor: pointer;
+}
